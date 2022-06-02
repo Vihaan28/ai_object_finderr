@@ -1,0 +1,31 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background-image:url( "https://media.istockphoto.com/vectors/pastel-abstract-shapes-background-vector-id1287148666?k=20&m=1287148666&s=612x612&w=0&h=6dTFlGLzKNgirlZaGVUcpNEs2jZnHLpaVkdWVQF6ihk=") ;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+}
+
+#input_box{
+    width: 500px;
+}
+
+.start_btn{
+    width: 200px;
+}
+ canvas{
+     margin-top: 100px;
+     border: solid black 2px;
+     border-radius: 10px;
+ }
